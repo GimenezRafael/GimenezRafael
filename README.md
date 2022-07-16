@@ -7,3 +7,7 @@
 - 💬 Ask me about my soft and hard skills
 - 📫 How to reach me: srgimenez@gmail.com
 - 😄 Free time: study, tennis, run, bike
+
+<div>
+  <a href="https://www.linkedin.com/in/rafaelmuzaiel/">
+    </div>
