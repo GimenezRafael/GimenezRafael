@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael Gimenez 👋
 
 - 🔭 I’m currently working on Serviceplan as Business Analyst
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning HTML
 - 👯 I work with: PowerBI | DAX | SQL | Jupyter | Python | ETL
 - ⚡ My goal is tracking the entire workflow on data to enable the company to work with a data-driven approach.
 - 💬 Ask me about my soft and hard skills
