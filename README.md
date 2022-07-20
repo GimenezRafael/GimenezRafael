@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning HTML
 - 👯 I work with: Power BI | DAX | SQL | Jupyter | Python | ETL | VS Code
 - ⚡ My goal is tracking the entire workflow on data to enable the company to work with a data-driven approach.
-- 💬 Ask me about my soft and hard skills
+- 💬 Ask me about my soft skills
 - 📫 How to reach me: srgimenez@gmail.com
 - 😄 Free time: study, tennis, run, bike
   
