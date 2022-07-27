@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Serviceplan as Business Analyst
 - 🌱 I’m currently learning Pandas and NumPy
-- 👯 I work with: PowerBI | DAX | SQL | Python | VS | Jupyter Notebook | ETL | Data Modeling & Visualization | UX for dashboards
+- 👯 I work with: Power BI | DAX | SQL | MySQL | Python | Pandas | NumPy | Plotly.express | VS | Jupyter Notebook | ETL | Data Modeling & Visualization | Storytelling and UX for dashboards | Git & GitHub
 - ⚡ My goal is tracking the entire workflow on data to enable the company to work with a data-driven approach
 - 💬 Ask me about my soft skills
 - 📫 How to reach me: srgimenez@gmail.com
@@ -16,6 +16,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Rafa-Pandas" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="Rafa-Jupyter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
 </div>
   
   ##
