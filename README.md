@@ -1,7 +1,7 @@
 ### Hi, I'm Rafael Gimenez 👋
 
-- 🔭 I’m currently working on Serviceplan as Business Analyst
-- 🌱 I’m currently learning Pandas and NumPy
+- 🔭 I’m currently working on Capgemini as Data Analyst
+- 🌱 I’m currently learning HTML
 - 👯 I work with: Power BI | DAX | SQL | MySQL | Python | Pandas | NumPy | Plotly.express | VS | Jupyter Notebook | ETL | Data Modeling & Visualization | Storytelling and UX for dashboards | Git & GitHub
 - ⚡ My goal is tracking the entire workflow on data to enable the company to work with a data-driven approach
 - 💬 Ask me about my soft skills
