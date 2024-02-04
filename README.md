@@ -1,8 +1,8 @@
 ### Hi, I'm Rafael Gimenez 👋
 
-- 🔭 I’m currently working on Capgemini as Data Analyst
-- 🌱 I’m currently learning HTML
-- 👯 I work with: Power BI | DAX | SQL | MySQL | Python | Pandas | NumPy | Plotly.express | VS | Jupyter Notebook | ETL | Data Modeling & Visualization | Storytelling and UX for dashboards | Git & GitHub
+- 🔭 I’m currently working on Prada as Data Analyst
+- 🌱 I’m currently learning Kotlin
+- 👯 I work with: Power BI | DAX | SQL | Python | Pandas | ETL | Visual Studio | Data Studio | Storytelling and UX for dashboards 
 - ⚡ My goal is tracking the entire workflow on data to enable the company to work with a data-driven approach
 - 💬 Ask me about my soft skills
 - 📫 How to reach me: srgimenez@gmail.com
